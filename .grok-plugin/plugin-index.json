@@ -410,7 +410,7 @@
       }
     },
     "living-memory": {
-      "sha": "ee0a06d99803259134d6dec1497b5d6136367c9d",
+      "sha": "bea349b049ee238b423cc48abf957bb51d089805",
       "version": "1.0.1",
       "components": {
         "mcpServers": [
